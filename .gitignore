@@ -14,3 +14,11 @@ __pycache__
 
 .cache
 compile_commands.json
+
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+bin/
+
