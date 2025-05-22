@@ -1,4 +1,4 @@
 pushd %~dp0
 cmake -B build
-cmake --build build -j4
+cmake --build build --config Release -j4
 popd
